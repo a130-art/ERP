@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xw/r0NbeFV0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\obegm\\source\\repos\\ERP\\ERP\\ERP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\obegm\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\obegm\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}
